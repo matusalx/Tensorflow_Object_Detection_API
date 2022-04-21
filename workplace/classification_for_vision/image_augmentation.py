@@ -9,7 +9,7 @@ import os
 
 # load images
 images = []
-dir = r'C:\Users\v.gurgenishvili\Desktop\TensorFlow Object Detection API\iva_workplace\classification_for_vision\image_data\standart'
+dir = r'workplace\classification_for_vision\image_data\standart'
 base_dir = os.path.dirname(dir)
 filenames = os.listdir(dir)
 
